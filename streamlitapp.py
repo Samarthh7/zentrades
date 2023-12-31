@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import json
 import streamlit as st
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 st.markdown(
     """ this website parses the data from the API and stores the information in pandas Dataframe"""
